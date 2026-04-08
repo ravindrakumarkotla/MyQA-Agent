@@ -1,0 +1,11 @@
+# AI QA Agent - Lightweight Dependencies
+# These are pre-built wheels for faster installation
+
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pandas>=2.0.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
